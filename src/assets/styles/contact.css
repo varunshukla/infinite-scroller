@@ -1,0 +1,9 @@
+.table, .form-inline {
+  margin-top: 20px;
+}
+.contact-row {
+  background-color: #4eb6dfa6;
+  margin: 10px;
+  padding: 5px;
+  height: 25px;
+}
